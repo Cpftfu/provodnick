@@ -1,0 +1,7 @@
+C:\Users\Вика\source\repos\someShit\someShit\bin\Debug\someShit.exe.config
+C:\Users\Вика\source\repos\someShit\someShit\bin\Debug\someShit.exe
+C:\Users\Вика\source\repos\someShit\someShit\bin\Debug\someShit.pdb
+C:\Users\Вика\source\repos\someShit\someShit\obj\Debug\someShit.csproj.AssemblyReference.cache
+C:\Users\Вика\source\repos\someShit\someShit\obj\Debug\someShit.csproj.CoreCompileInputs.cache
+C:\Users\Вика\source\repos\someShit\someShit\obj\Debug\someShit.exe
+C:\Users\Вика\source\repos\someShit\someShit\obj\Debug\someShit.pdb
